@@ -29,7 +29,7 @@ More information can be found @ https://homes.di.unimi.it/scotti/all/
 # LICENSE
 MIT License
 
-Copyright (c) 2021 andrealoddo
+Copyright (c) 2021 Andrea Loddo, Lorenzo Putzu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
