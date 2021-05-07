@@ -19,6 +19,11 @@ NOTE: please cite the following pubblication in case of using these images in yo
   doi       = {10.1007/s00138-016-0812-4}
 }
 
+---------------------------------------------------------------------------------
+# ALL-IDB
+ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881
+More information can be found @ https://homes.di.unimi.it/scotti/all/
+
 --------------------------------------------------------------------------------
 # LICENSE
 MIT License
@@ -42,8 +47,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------------
-# ALL-IDB
-ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881
-More information can be found @ https://homes.di.unimi.it/scotti/all/
