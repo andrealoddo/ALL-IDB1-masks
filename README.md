@@ -5,6 +5,21 @@ Authors, releasers and maintainers: Lorenzo Putzu, Andrea Loddo - University of 
 
 NOTE: please cite the following pubblication in case of using these images in your own work:
 
+
+@Article{app12073269,
+AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
+TITLE = {On the Reliability of CNNs in Clinical Practice: A Computer-Aided Diagnosis System Case Study},
+JOURNAL = {Applied Sciences},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {7},
+ARTICLE-NUMBER = {3269},
+URL = {https://www.mdpi.com/2076-3417/12/7/3269},
+ISSN = {2076-3417},
+DOI = {10.3390/app12073269}
+}
+
+
 @article{CDR2016,
   author    = {Cecilia Di Ruberto and
                Andrea Loddo and
@@ -19,6 +34,8 @@ NOTE: please cite the following pubblication in case of using these images in yo
   url       = {https://doi.org/10.1007/s00138-016-0812-4},
   doi       = {10.1007/s00138-016-0812-4}
 }
+
+Further segmented masks for ALL-IDB2 data set images can be found @ https://github.com/andrealoddo/ALL-IDB1-masks
 
 ---------------------------------------------------------------------------------
 # ALL-IDB
