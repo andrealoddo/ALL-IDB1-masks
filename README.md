@@ -35,7 +35,7 @@ DOI = {10.3390/app12073269}
   doi       = {10.1007/s00138-016-0812-4}
 }
 
-Further segmented masks for ALL-IDB2 data set images can be found @ https://github.com/andrealoddo/ALL-IDB1-masks
+Further segmented masks for ALL-IDB2 data set images can be found @ https://github.com/lputzu/ALL-IDB2_masks/
 
 ---------------------------------------------------------------------------------
 # ALL-IDB
